@@ -6,7 +6,7 @@ repository: sproogen/resume-theme
 name: Антон Юрченко
 title: Технический директор
 email: pragmatic.anton@gmail.com
-website: www.github.com/sproogen/resume-theme
+#website: www.github.com/sproogen/resume-theme
 
 # Social links
 # twitter_username: facespics
